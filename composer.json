@@ -1,0 +1,26 @@
+{
+    "name": "incoom/carrot-bunnycdn-incoom-plugin",
+    "description": "this is a test plugin. it works though. it works to automatically pull all media files and static files from a website to bunny cdn.. This was made by samuel incoom and not yet official in our bunnycdn team yet. just a private internal plugin. but you can use it to acheive what has been described. thank you ",
+    "type": "project",
+    "authors": [
+        {
+            "name": "incoom",
+            "email": "incoomsamuel@gmail.com"
+        }
+    ],
+    "require": {
+        "a5hleyrich/wp-background-processing": "1.0.1",
+        "aws/aws-sdk-php": "^3.252.4",
+        "google/cloud-core": "^1.43",
+        "google/cloud-storage": "v1.30.0",
+        "matthiasmullie/minify": "1.3.61",
+        "matthiasmullie/path-converter": "1.1.2",
+        "monolog/monolog": "1.24.0",
+        "rosell-dk/webp-convert": "^2.2.2",
+        "jenssegers/agent": "^2.6"
+    },
+    "config": {
+        "disable-tls": false,
+        "platform-check": false
+    }
+}
