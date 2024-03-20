@@ -1,4 +1,4 @@
-Main file inside "carrot.zip"
+Main files inside "carrot.zip"
 
 Hey team, i call this "carrot".. this is a test plugin. but works. it works to automatically pull all media files and 
 static files from a website to bunny cdn..
