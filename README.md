@@ -6,3 +6,4 @@ Team is on it.
 
 thank you
 
+**What is Bunny CDN?** - Trusted by over 1.000.000+ websites. No hidden fees and 24/7 support. Expert Performance Tips. Multiple Payment Options.. Bunny CDN is a content delivery network (CDN) that offers fast and reliable video streaming services at competitive prices.  try it yourself or for your company at https://bunny.net/ .  you wont regret it. i promise you
