@@ -1,0 +1,802 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"POT-Creation-Date: 2019-08-03 07:37+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: 2019-08-03 07:39+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: carrot-bunnycdn-incoom-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: admin <vuduc.nam64@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:67
+msgid "Kill sync process."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:70
+msgid "carrot-bunnycdn-incoom-plugin Synchronize:"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:99
+msgid ""
+"<strong>carrot-bunnycdn-incoom-plugin</strong>: Your PHP version is low. Please, "
+"upgrade PHP 7.0 or higher."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:112
+msgid "Click here!"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:115
+msgid ""
+"<strong>carrot-bunnycdn-incoom-plugin</strong>: Your settings are incorrect, or the "
+"bucket does not exist. Please verify your settings and update them."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:179
+msgid "Please, select provider."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:180
+msgid "Scanning..."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:181
+msgid "May take a few minutes to scan your bucket."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:182
+msgid "carrot - Download all files from bucket to server."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:183
+msgid "carrot - Remove all files from server."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:184
+msgid "carrot - Remove all files from bucket."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:185
+msgid "carrot - Copy all files from server to bucket."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:188
+msgid "Uploading..."
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:189
+msgid "Upload"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:190
+msgid "Close"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:191
+msgid "Create"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:192
+msgid "carrot - bunnycdn incoom plugin library"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:199
+msgctxt "Storage provider key name"
+msgid "Storage Provider"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:200
+msgctxt "Storage provider name"
+msgid "Storage Provider"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:201
+msgctxt "Bucket name"
+msgid "Bucket"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:202
+msgctxt "Path to file in bucket"
+msgid "Path"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:203
+msgctxt "Location of bucket"
+msgid "Region"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:204
+msgid "URL"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:222
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:223
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:231
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:232
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:240
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:21
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:2
+msgid "carrot-bunnycdn-incoom-plugin"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:241
+msgid "Settings"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:248
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:249
+msgid "Product License"
+msgstr ""
+
+#: admin/class-carrot-bunnycdn-incoom-plugin-admin.php:973
+msgid "carrot - Offload media"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:78
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:135
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:210
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:276
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:314
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:324
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:371
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:381
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:428
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:485
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:495
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:542
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:578
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:604
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:642
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:687
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:733
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:826
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:842
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:872
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:924
+msgid "Security check"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:118
+msgid "Files not found!"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:245
+#: admin/partials/sync/provider.php:73
+msgid "From bucket"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:247
+#: admin/partials/sync/provider.php:75 admin/partials/sync/provider.php:136
+msgid "Select bucket"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:256
+#: admin/partials/sync/provider.php:84
+msgid "To bucket"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:348
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:405
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:462
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:519
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:806
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:901
+msgid "Done"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:359
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:416
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:473
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:530
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:817
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:911
+msgid "Continue"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:438
+msgid "Empty files."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:601
+msgid "Failed"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:648
+msgid "Please, enter your bucket name."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:749
+msgid "No files scanned."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-ajax.php:838
+msgid "Scan complete."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-licenser.php:98
+msgid "Every 6 hours"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-licenser.php:333
+#, php-format
+msgid "Please enter your email and purchase key to enable updates to %s."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-licenser.php:343
+msgid "Complete the setup now."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-wasabi-client.php:22
+#: functions/global.php:1137
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:39
+#: admin/partials/sync/provider.php:37 admin/partials/sync/provider.php:100
+msgid "Wasabi"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-wasabi-client.php:75
+#: includes/class-carrot-bunnycdn-incoom-plugin-google.php:216
+#: includes/class-carrot-bunnycdn-incoom-plugin-storage.php:182
+msgid "Choose a bucket"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-google.php:25
+#: functions/global.php:1134
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:40
+#: admin/partials/sync/provider.php:38 admin/partials/sync/provider.php:101
+msgid "Google Cloud Storage"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-google.php:41
+#: includes/class-carrot-bunnycdn-incoom-plugin-storage.php:114
+msgid "Error, please try again."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-google.php:56
+msgid "Could not create Google storage client."
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-google.php:487
+#: includes/class-carrot-bunnycdn-incoom-plugin-storage.php:367
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:57
+msgid "Public"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-sync-process.php:83
+msgid "carrot-bunnycdn-incoom-plugin Synchronize"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-sync-process.php:84
+msgid "carrot-bunnycdn-incoom-plugin Synchronize: process has been completed."
+msgstr ""
+
+#. %d: interval
+#: includes/class-carrot-bunnycdn-incoom-plugin-background-process.php:154
+#, php-format
+msgid "Every %d minutes"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-storage.php:74
+#: functions/global.php:1141
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:38
+#: admin/partials/sync/provider.php:36 admin/partials/sync/provider.php:99
+msgid "Amazon S3"
+msgstr ""
+
+#: includes/class-carrot-bunnycdn-incoom-plugin-storage.php:797
+msgid ""
+"The requested bucket name is conflict. Please select a different name and "
+"try again."
+msgstr ""
+
+#: functions/global.php:176
+msgid "Provider not found."
+msgstr ""
+
+#: functions/global.php:231
+#, php-format
+msgid "Copy to %s"
+msgstr ""
+
+#: functions/global.php:234
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:121
+msgid "Remove from server"
+msgstr ""
+
+#: functions/global.php:237
+#, php-format
+msgid "Copy to server from %s"
+msgstr ""
+
+#: functions/global.php:240
+#, php-format
+msgid "Remove from %s"
+msgstr ""
+
+#: functions/global.php:270
+msgid ""
+"You have to configure your Access Key and Secret Access Key correctly in the "
+"\"Connect to your s3 amazon account\" tab"
+msgstr ""
+
+#: functions/global.php:300
+msgid ""
+"You have to choose a bucket in the \"Setting\" tab in the Amazon S3 admin "
+"panel"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-sync.php:5
+msgid "Sync data now"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-sync.php:11
+msgid "Target"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-sync.php:17
+msgid "Cloud to Cloud"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-sync.php:24
+msgid "Bucket to Bucket"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-metabox.php:11
+msgid "This item has not been offloaded yet."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-metabox.php:15
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:36
+msgid "Storage Provider"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-metabox.php:19
+msgid "Bucket"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-metabox.php:24
+msgid "Region"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-metabox.php:29
+msgid "Path"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:6
+msgid "Rewrite Media URLs"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:13
+msgid ""
+"For Media Library files that have been copied to your bucket, rewrite the "
+"URLs so that they are served from the bucket or CDN instead of your server. "
+"Rewrites local URLs to be served from your Amazon S3 bucket, CloudFront or "
+"another CDN, or a custom domain."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:23
+msgid "Custom Domain (CNAME)"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:28
+msgid "Ex: assets.example.com"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:31
+msgid ""
+"We strongly recommend you configure a CDN to point at your bucket and "
+"configure a subdomain of localhost to point at your CDN. If you don't enter "
+"a subdomain of your site's domain in the field above it will negatively "
+"impact your site's SEO. By default rewritten URLs use the raw bucket URL "
+"format, e.g. https://s3.amazonaws.com.... If you have enabled CloudFront, "
+"another CDN, or are using a CNAME, you can set that domain with this setting."
+" "
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:40
+msgid "Force HTTPS"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-url.php:47
+msgid ""
+"By default we use HTTPS when the request is HTTPS and regular HTTP when the "
+"request is HTTP, but you may want to force the use of HTTPS always, "
+"regardless of the request."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:23
+msgid "Connection was successful"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:28
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-general.php:21
+msgid ""
+"An error occurred while accessing, the credentials (access key or secret key)"
+" are NOT correct"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:42
+msgid ""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:43
+msgid "Important:"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:43
+msgid ""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:49
+#: admin/partials/sync/provider.php:44 admin/partials/sync/provider.php:108
+msgid "Credentials"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:51
+msgid "Authentication credentials to your application."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:57
+#: admin/partials/sync/provider.php:51 admin/partials/sync/provider.php:115
+msgid "Access key"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:59
+msgid "Set the access key"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:67
+#: admin/partials/sync/provider.php:60 admin/partials/sync/provider.php:124
+msgid "Secret access key"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:71
+msgid "Set the secret access key"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:81
+msgid ""
+"If you don't know where to search for your Google Cloud Storage credentials,"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:81
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:93
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:105
+msgid "you can find them here"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:93
+msgid ""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-connect.php:105
+msgid "If you don't know where to search for your Wasabi credentials,"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:7
+msgid "change static asset links"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:14
+msgid ""
+"For any enqueued files that have been copied to your bucket, rewrite the "
+"URLs so that they are served from the bucket or CDN instead of your server. "
+"Rewrites local URLs to be served from your Amazon S3 bucket, CloudFront or "
+"another CDN, or a custom domain."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:16
+msgid "Scan assets"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:26
+msgid "Custom path"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:31
+msgid "EX: pull-assets/"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:43
+msgid "Minify CSS"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-assets.php:57
+msgid "Minify JS"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:6
+msgid ""
+"Cross Origin Resource Sharing (CORS) is a mechanism for allowing "
+"interactions between resources from different origins, something that is "
+"normally prohibited in order to prevent malicious behavior."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:14
+msgid "Origins"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:19
+msgid "EX: assets.example.com,cdn.example.com or *"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:21
+msgid ""
+"The list of Origins eligible to receive CORS response headers, separated by "
+"commas. Note: \"*\" is permitted in the list of origins, and means \"any "
+"Origin\"."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:31
+msgid "HTTP methods"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:54
+msgid "Max Age Seconds"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-cors.php:61
+msgid ""
+"For preflighted requests, allow the browser to make requests for 3600 "
+"seconds (1 hour) before it must repeat the preflight request."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:24
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:28
+msgid "Loading"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:32
+msgid "BunnyCDN credentials"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:38
+msgid "Bucket Settings"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:41
+msgid "(Bucket does not exist)"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:45
+msgid "Assets"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:46
+msgid "URL Rewriting"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:47
+msgid "CORS"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:48
+msgid "Advanced"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:49
+msgid "Sync Data"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:52
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:86
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:93
+msgid "Download all files from bucket to server."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:94
+msgid "Download files"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:98
+msgid "Remove all files from bucket."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:99
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:105
+msgid "Remove files"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:104
+msgid "Remove all files from server."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:110
+msgid "Copy all files from server to bucket."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-display.php:111
+msgid "Copy files"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:20
+msgid ""
+"In order to receive all benefits of carrot-bunnycdn-incoom-plugin, you "
+"need to activate your plugin."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:25
+msgid "Purchase Code"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:30
+msgid "Where Is My Purchase Code?"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:40
+msgid "Purchaser Email"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:50
+msgid "Activate"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:55
+msgid ""
+"You have activated carrot-bunnycdn-incoom-plugin version which allows "
+"you to access all the customer benefits. Thank you for choosing carrot - "
+"WordPress Offload Media."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:56
+msgid "Back to settings."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-license.php:61
+msgid "Deactivate license."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:8
+msgid "Set a bucket name"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:11
+msgid "Or"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:12
+msgid "Create bucket"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:14
+#, php-format
+msgid ""
+"Select the %s bucket name where to upload all the files. If you don't know "
+"how to create a bucket"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:14
+msgid ""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:26
+#, php-format
+msgid "Copy file to %s"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:32
+#, php-format
+msgid "Automatically push new files users upload toto %s"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:36
+#, php-format
+msgid ""
+" "
+""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:44
+msgid "Permissions"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:50
+msgid "Private"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:60
+#, php-format
+msgid ""
+"By setting the files as public, anyone who knows the %s URL will have "
+"complete access to it."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:70
+msgid "Cache-Control"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:76
+msgid ""
+"Sets the Cache-Control metadata for uploads. Default: public, max-"
+"age=31536000 (one year)"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:88
+msgid "Allow File Upload Types"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:92
+msgid ""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:95
+msgid ""
+""
+""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:95
+msgid "Separated by commas. EX: mp3,mp4"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:105
+msgid "Compress Objects Automatically"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:111
+msgid "Enable GZIP"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:127
+msgid "Remove from the server"
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-aws.php:130
+#, php-format
+msgid ""
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-advanced.php:8
+msgid "Removing the emoji."
+msgstr ""
+
+#: admin/partials/carrot-bunnycdn-incoom-plugin-admin-settings-advanced.php:23
+msgid "Minify HTML"
+msgstr ""
+
+#: admin/partials/sync/provider.php:33
+msgid "From"
+msgstr ""
+
+#: admin/partials/sync/provider.php:35 admin/partials/sync/provider.php:98
+msgid "Select a cloud"
+msgstr ""
+
+#: admin/partials/sync/provider.php:96
+msgid "To"
+msgstr ""
+
+#. Name of the plugin
+msgid "carrot-bunnycdn-incoom-plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"carrot – WordPress offload media copies files from your WordPress Media "
+"Library to Amazon S3, Wasabi, Google cloud storage and rewrites URLs to "
+"server the files from that same storage provider, or from the CDN of your "
+"choice (CloudFront)."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://github.com/Samuelincoom/bunnycarrot"
+msgstr ""
+
+#. Author of the plugin
+msgid "incoom"
+msgstr ""
